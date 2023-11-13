@@ -1,0 +1,36 @@
+h3 {
+    color: rgb(126, 84, 30);
+}
+
+#aqua{
+    color: rgb(71, 71, 124);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+.blue {
+    color: rgb(71, 71, 124);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+#info {
+    color: rgb(42, 24, 51);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+.butt {
+    color: white;
+    background-color: olivedrab;
+}
+/*}
+.italic {
+    font-style: italic;
+}
+/*.image {
+    border: 6px rgb(39, 29, 29) dotted;
+    padding: 5px;
+}
+.image:hover {
+    border: 10px lightcoral solid;
+}
